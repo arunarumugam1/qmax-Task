@@ -1,0 +1,15 @@
+.btn:hover{
+    background-color: lightblue;
+    text-shadow: black;
+    transition: 0.2s;
+    transform: rotateY(10deg) scale(0.9);
+    box-shadow: 0 25px 40px rgb(56, 56, 56);
+}
+
+.itm:hover{
+    background-color: rgb(194, 194, 194);
+    transition: 0.2s;
+    transform: rotateY(10deg) scale(.9);
+    box-shadow: 0 25px 40px rgb(56, 56, 56);
+    border-radius: 2rem;
+}
